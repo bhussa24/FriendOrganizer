@@ -1,0 +1,5 @@
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.Model\bin\Debug\FriendOrganizer.Model.dll
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.Model\bin\Debug\FriendOrganizer.Model.pdb
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.csprojAssemblyReference.cache
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.dll
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.pdb

@@ -1,0 +1,15 @@
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.pdb
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.dll
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.pdb
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csprojAssemblyReference.cache
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csproj.CopyComplete
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.dll
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.pdb
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll.config
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.Migrations.InitialDatabase.resources
+C:\Users\Bilal.Hussain\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csproj.GenerateResource.cache
